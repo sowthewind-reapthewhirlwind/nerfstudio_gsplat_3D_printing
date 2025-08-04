@@ -1,3 +1,10 @@
+To run the different parameter fixing model you need to replace splatfacto with either the all_params file or means_only file.
+
+
+
+
+
+
 <p align="center">
     <!-- community badges -->
     <a href="https://discord.gg/uMbNqcraFc"><img src="https://dcbadge.vercel.app/api/server/uMbNqcraFc?style=plastic"/></a>
